@@ -16,12 +16,32 @@ terms are used interchangeably to describe aberrant numbers of copies of one gen
 
 ### Describe NCIt, ICOD, UBERON codes, and their relationships.
 * NCIt (National Cancer Institute Thesaurus):
-  sdflkjlkfs
+  - provides information on cancer type classification
+  - hierarchical ontology
 
-### What are CNV segmentations and CNV frequencies, and how to use them? What are APIs and how to use APIs in progenetix?
+* ICD-O-3 (Inter- national Classification of Diseases in Oncology):
+  - cancer type classification system
+  - morphological and topological information of cancer sample used
+  - works with tumor samples
+  - limited in its representation of hierarchical concepts
+  - limited translatability to modern ontologies
 
+* UBERON
+  - cross-species anatomical structural ontology system closely aligned with developmental processes
+  - relationship structure allows integrative queries linking multiple databases and description logic query within the same organism (linking related organs) and between model animals and humans
+  - all existing ICD-O codes were mapped to UBERON terms in progenetix
+
+### What are CNV segmentations and CNV frequencies, and how to use them? 
+* CNV segmentations = analysis of CNV data which outputs change-points in gene copy numbers
+* CNV frequencies = the frequency of occurrence of a specific CNV at one locus (with respect to a sample population)
+
+### What are APIs and how to use APIs in progenetix?
+* API = Beacon application programming interface
+  - the "language" a program/person has to use to communicate with progenetix.
+  - information on this is given [here](https://docs.progenetix.org/services/)
 
 ### How does progenetix visualise CNA profiles?
+  - as a genomwide plot of the precentage of samples with copy number gain (yellow, +) and with copy number loss (blue, -)<img width="1056" alt="Screen Shot 2022-09-21 at 15 13 14" src="https://user-images.githubusercontent.com/103630748/191513194-7fe7af06-c530-4024-93e4-10aa4e5b0560.png">
 
 
 ### What do you think should be improved in progenetix?
