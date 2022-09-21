@@ -19,3 +19,19 @@ df = pd.read_csv("data.csv")
 ```
 
 >This code is an adapted version of the code presented in the lecture, as my program did not work at all.
+
+my code:
+```
+import pandas as pd
+
+file = open("data.pgxseg", newline="")
+
+lines = file.readlines()
+
+df = pd.DataFrame({})
+
+for line in lines:
+    if "#" not in line:
+        row = pd.DataFrame(line)
+        pd.concat([df,row])
+
