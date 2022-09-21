@@ -1,4 +1,5 @@
 # code to read .pgxseg file
+Flurin Läuchli
 
 ```
 import pandas as pd
