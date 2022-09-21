@@ -20,4 +20,14 @@ blabla
 #RRGGBB -> `#0969DA`  
 >nevermind, does not work.
 
+#### RGB
 `rgb(9, 105, 218)`
+
+#### HSL
+`hsl(212, 92%, 45%)`  
+>"The visualization of the color is only supported in issues, pull requests, and discussions."
+
+
+[link to very interesting section](https://github.com/FlurinLa/Flurin_BIO392/edit/main/Markdown.md#markdown-basics)
+
+
