@@ -34,4 +34,6 @@ for line in lines:
     if "#" not in line:
         row = pd.DataFrame(line)
         pd.concat([df,row])
+```
 
+besides my code not working, the difference between the presented code and my code is the "with" statement, it seems handy but i never used it and Idont know how it works.
