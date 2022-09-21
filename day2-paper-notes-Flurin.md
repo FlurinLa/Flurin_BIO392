@@ -10,8 +10,11 @@ terms are used interchangeably to describe aberrant numbers of copies of one gen
 
 ### How will you describe or introduce progenetix (scale, data source, cancer types and so on)? 
 * Progenetix is a publicly accessible cancer genome data resource [progenetix](progenetix.org) that aims to provide a comprehensive representation of genomic variation profiles in cancer, through providing sample-specific CNA profiles and associated metadata as well as services related to data annotation, meta-analysis and visualization.
-* The Progenetix resource provides an extensive collection of oncogenomic data with a focus on individual genome-wide CNA profiles and the use of modern ontologies and data schemas to render curated biological and technical meta- data, as well as thorough references to external repositories and annotation resources.
+* The Progenetix resource provides an extensive collection of oncogenomic data with a focus on individual genome-wide CNA profiles and the use of modern ontologies and data schemas to render curated biological and technical meta- data, as well as thorough references to external repositories and annotation resources.<img width="1172" alt="Screen Shot 2022-09-21 at 15 16 27" src="https://user-images.githubusercontent.com/103630748/191513993-fc2a7a0c-ca24-4638-b4e2-4f8fb2e0280e.png">
+> progenetix combines data from different ressources
+
 * includes 138 663 CNV profiles, as well as information on the geographic origin of the sample, the predicted ancestry of the patient, the cancer type and and different classification methods
+* comes with an interactive user-interface (online)
 
 
 ### Describe NCIt, ICOD, UBERON codes, and their relationships.
@@ -45,3 +48,11 @@ terms are used interchangeably to describe aberrant numbers of copies of one gen
 
 
 ### What do you think should be improved in progenetix?
+  - more data (of the same/better quality) would always be helpful
+
+
+## paper best-of:
+[highlights_Flurin_2022-09-21-day-02-paper-reading.txt](https://github.com/FlurinLa/Flurin_BIO392/files/9616915/highlights_Flurin_2022-09-21-day-02-paper-reading.txt)
+
+
+
