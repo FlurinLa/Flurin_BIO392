@@ -18,11 +18,13 @@ https://github.com/compbiozurich/UZH-BIO392
   - data representation is "boring plain text"
   - 3bio bo/human genome
   - variant data store logic: chrom, start, end (of variant, duplication, ..?)
-    - discussed storage formats: only reference genoma, FASTA and one other sequence based
+    - discussed storage formats: only reference genoma, FASTA and one other (FASTQ?) sequence based
   - sequencing: degree of uncertainty for each nucleotide
   - naming of reference genomes is a mess
   - "if youre doing science and youre using a mouse: this is not reproducible"
-  -
+  
+## terminal, UNIX
+
  
 
 
