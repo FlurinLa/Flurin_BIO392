@@ -20,7 +20,10 @@ https://github.com/compbiozurich/UZH-BIO392
   - variant data store logic: chrom, start, end (of variant, duplication, ..?)
     - discussed storage formats: only reference genoma, FASTA and one other sequence based
   - sequencing: degree of uncertainty for each nucleotide
-  - 
+  - naming of reference genomes is a mess
+  - "if youre doing science and youre using a mouse: this is not reproducible"
+  -
+ 
 
 
 
