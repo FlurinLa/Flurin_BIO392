@@ -15,10 +15,13 @@ https://github.com/compbiozurich/UZH-BIO392
 
 ## questions
 - does the reference genome come with nucleotide variability?
+> nope, variability always depends on the context (ethnicity, ..)
 
 - how do sequence alignment algorithms work?
+> eg. seeding and checking vincinity. read paper "Fast and accurate long-read alignment with Burrows–Wheeler transform"
 
 - how to solve sequence alignment during hr?
+> no clue
 
 
 
