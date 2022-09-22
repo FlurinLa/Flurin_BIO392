@@ -32,6 +32,14 @@ https://github.com/compbiozurich/UZH-BIO392
 date > folder/file.txt
 > writes current date into new text file
 
+- "shebang": #!\"language in which skript was written"
+- file extensions can be anything, not bound to what language stuff is written!
+
+- shell -> kernel -> computer ressources![image](https://user-images.githubusercontent.com/103630748/191703178-b083d6e2-3603-4d3a-8e9f-7d4b4087587c.png)
+
+- prompt = symbol at beginning of commandline which indicates that compi is ready to take command (UNIX: $)
+<img width="1471" alt="Screen Shot 2022-09-22 at 11 03 48" src="https://user-images.githubusercontent.com/103630748/191705616-1f566a1c-7c3b-42ba-8114-697114bffe48.png">
+
 
 
  
