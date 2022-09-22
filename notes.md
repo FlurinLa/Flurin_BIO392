@@ -16,6 +16,8 @@ https://github.com/compbiozurich/UZH-BIO392
 ## questions
 - does the reference genome come with nucleotide variability?
 
+- how do sequence alignment algorithms work?
+
 - how to solve sequence alignment during hr?
 
 
@@ -58,6 +60,12 @@ https://github.com/compbiozurich/UZH-BIO392
   - depending on use case, one might really be not interested at all about the actual read one gi, only about the position in the reference genome
     - eg. transcriptomics, read counts..
     - much less storage needed
+    - problem: counting is not standardized xD
+      - eg. 11 23; nucleotide 11 included or not? first nucleotide was 1 or 0?
+      
+      <img width="594" alt="Screen Shot 2022-09-22 at 14 01 43" src="https://user-images.githubusercontent.com/103630748/191741320-b92d4fd3-8a06-4a43-8125-a1a3415b1c23.png">
+
+
 
 
 
