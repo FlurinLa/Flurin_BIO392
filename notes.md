@@ -24,6 +24,15 @@ https://github.com/compbiozurich/UZH-BIO392
   - "if youre doing science and youre using a mouse: this is not reproducible"
   
 ## terminal, UNIX
+- philosophy: small efficient programs which only do one thing
+- write skripts which connect these programs
+  - without saving to disk, compi can process files (text string processing)
+
+
+date > folder/file.txt
+> writes current date into new text file
+
+
 
  
 
