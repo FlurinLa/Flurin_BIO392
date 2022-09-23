@@ -134,6 +134,30 @@ ex.22
 ex.24
 - I dont really get the output
 
+> awk $no sometimes seems to grab columns, sometimes rows?
+
+
+
+
+
+## ..
+
+- no of reported genes depends on gene predicting tool used!
+
+*VCF*
+[VCF documentation](https://samtools.github.io/hts-specs/VCFv4.2.pdf)
+
+
+### exam questions[genomic_file_formats-2 (dragged).pdf](https://github.com/FlurinLa/Flurin_BIO392/files/9632164/genomic_file_formats-2.dragged.pdf)
+
+- half-open = first index included, second not
+- fully open = start and end index *not* included
+
+
+
+
+
+
 
 
 
