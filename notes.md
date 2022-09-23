@@ -144,14 +144,15 @@ ex.24
 
 - no of reported genes depends on gene predicting tool used!
 
-*VCF*
+**VCF**
 [VCF documentation](https://samtools.github.io/hts-specs/VCFv4.2.pdf)
 
 
-### exam questions[genomic_file_formats-2 (dragged).pdf](https://github.com/FlurinLa/Flurin_BIO392/files/9632164/genomic_file_formats-2.dragged.pdf)
+### exam questions
+[genomic_file_formats-2 (dragged).pdf](https://github.com/FlurinLa/Flurin_BIO392/files/9632164/genomic_file_formats-2.dragged.pdf)
 
 - half-open = first index included, second not
-- fully open = start and end index *not* included
+- fully open = start and end index **not** included
 
 
 
