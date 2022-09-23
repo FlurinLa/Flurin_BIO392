@@ -115,7 +115,7 @@ date > folder/file.txt
  
  ex. 16:
 awk -v OFS='\t' '{print $1,$2,$3}' a.bed
-> What does the -v mean?
+- What does the -v mean?
 	otherwhise output looks like this:
 	chr1 10 20
 	chr1 100 200
@@ -125,22 +125,26 @@ awk -v OFS='\t' '{print $1,$2,$3}' a.bed
 ex.22
 -s “only report hits in B
 		that overlap A on the _same_ strand.”
-> which strand?
-	+/- strand?
+- which strand?
+	+/- strand.
 
 
-> faster way of clicking through terminal command?
+- faster way of clicking through terminal command?
+
 
 ex.24
 - I dont really get the output
 
-> awk $no sometimes seems to grab columns, sometimes rows?
+- awk $no sometimes seems to grab columns, sometimes rows?
+	nope, $(>1) outputs a column
+	$0 outputs whole stuff
+	grab rows with NR
 
 
 
 
 
-## ..
+## ..on with the file formats
 
 - no of reported genes depends on gene predicting tool used!
 
