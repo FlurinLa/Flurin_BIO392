@@ -24,7 +24,6 @@ https://github.com/compbiozurich/UZH-BIO392
 > no clue
 
 
-
 - UCSC genome browser https://genome-euro.ucsc.edu/cgi-bin/hgTracks?db=hg38&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A15560138%2D15602945&hgsid=290662285_Fb1M2aMP5aCk8N4Foq8zPwovXDPC
   - genome vs. conservation, exons, .. -> find spots which likely contain lots of information.
   - data representation is "boring plain text"
@@ -110,8 +109,30 @@ date > folder/file.txt
 
 
 
+ # day 4
  
+ ## questions
+ 
+ ex. 16:
+awk -v OFS='\t' '{print $1,$2,$3}' a.bed
+> What does the -v mean?
+	otherwhise output looks like this:
+	chr1 10 20
+	chr1 100 200
+	(spaces or so, not tabs between entries)
 
+
+ex.22
+-s “only report hits in B
+		that overlap A on the _same_ strand.”
+> which strand?
+	+/- strand?
+
+
+> faster way of clicking through terminal command?
+
+ex.24
+- I dont really get the output
 
 
 
