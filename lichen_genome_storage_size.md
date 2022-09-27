@@ -1,15 +1,17 @@
-### this file should answer the following two questions:
-## 1. Which file format would be suited to store a lichen genome?
-## 2. How much storage wouold that take?
+**this file should answer the following two questions:**
+1. Which file format would be suited to store a lichen genome?
+2. How much storage wouold that take?
+  
+  
 
-**prequel:**  
+### prequel: What *is* a lichen genome?
 
 lichen are symbiotic organisms comprised of a main funghus, a photobiont (algae and/or cyanobacterium) and other microbes with less well known function (yeast, bacteria). lichen thalli are "super-structures" of individual funghal, algal and/or bacterial cells. in contrast to us, they do not develop from a single cell (neither the whole organism nor the individual species taking part). some researchers consider them rather as a micro-ecosystem than as an organism, so a "lichen genome" is rather a metagenome of a lichen sample.
 i will consider a lichen genome as the genetic material of the main symbionts (funghus + photobiont).
 
 
 
-to question 1:
+## 1. Which file format would be suited to store a lichen genome?
 - whole exome sequencing (WES) might not be suited to analyze lichen genomes
   - lichen are poikilohydric, meaning that the water content of lichen cells varies drastically
   - this variation of the water content comes with changes in cellular activity, including big changes in gene activities. followingly, the transctiptome of lichen is unsteady.
