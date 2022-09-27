@@ -30,5 +30,6 @@ i will consider a lichen genome as the genetic material of the main symbionts (f
     - **nanopore sequencing** would probably be best suited, as the long read lengths enable pulling apart the different genomes in the lichen mixture.
 
 - **as no reference genome for *X. parientina* and *T. arboricola* exist, the file format must store the whole sequence**
-  - 
+  - the only discussed file formats doing this are FASTA and FASTQ
+    - as the stored genomes come with some uncertainty (nanopore sequencing), quality information should be retained -> **FASTQ**
 
