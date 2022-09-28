@@ -160,6 +160,15 @@ ex.24
 
 
 
+# week2, wed
+
+- biggest human chrom (ch1) = just under 250Mbp
+- chromosomal bands: Mb-sized
+- genome liftover: map pointers to eg. hg18 to hg19 
+	- use chain files: "at pos. 20, 5 bases inserted. .. "
+	- more difficult if the to-be-mapped sequence does not exist there anymore
+
+
 
 
 
