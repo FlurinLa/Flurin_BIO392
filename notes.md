@@ -10,6 +10,8 @@ https://progenetix.org
 
 https://github.com/compbiozurich/UZH-BIO392
 
+https://github.com/compbiozurich/UZH-BIO392/tree/master/course-results/2022/Flurin-Lauchli
+
 
 # day 3 
 
