@@ -48,7 +48,16 @@ CNV gains and losses vs. gene type
 
 
 ## 8. The authors generated a null CNV map and found genes for which at least 85% of the exons were homozygous deleted. What are the functions of these genes? And why did the authors sav that they seem to be non-essential? (Homozygous deleted genes)
+- null CNVs were limited to 0.75% of the genome in the stringent map
+- genes seem to be non-essential, as they could be missing from the genomes of apparently healthy individuals
+- might be duplicated genes
+- function of non-essential genes may be redundant, or they may be related to late-onset phenotypic consequences that do not substantially reduce the fitness
 
-
-9. If you are a medical doctor, how do you use this map as a tool to assess the clinical
-importance of a CNV? (Clinical application of the CNV map part in Discussion)
+## 9. If you are a medical doctor, how do you use this map as a tool to assess the clinical importance of a CNV? (Clinical application of the CNV map part in Discussion)
+- map can be used to guide the development of CNV-specific genotyping assays
+- To assess the clinical importance of a CNV found in a case subject, the criteria could include:
+  (i) whether it is found among the CNVRs of the CNV map 
+  (ii) whether it overlaps with medically rel- evant genes. 
+- Comparisons between 2 inclusive and stringent maps could allow consideration of conditional phenotypes
+- Genomic background, including ethnicity, can influence the thresholds. 
+  -  For example, the low copy number (4.8%) of the amylase gene is a disadvantage in Asian populations, particularly in the Japanese, but it has no effect in African populations
