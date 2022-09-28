@@ -45,12 +45,12 @@ i will consider a lichen genome as the genetic material of the main symbionts (f
 - FASTQ file size:
   - depends on number of reads & length of reads
     - itself depends on sequencing method used
-  - the *Xanthoria parietina* genome stored [here](https://mycocosm.jgi.doe.gov/Xanpa2/Xanpa2.info.html) is about 40GB big
+  - the *Xanthoria parietina* genome stored [here](https://mycocosm.jgi.doe.gov/Xanpa2/Xanpa2.info.html) is about 20GB big
     - this genome draft assembly comes with the raw data (FASTQ) and annotations, but the annotation file sizes are negligible
   - the *Trebouxia* genome stored [here](https://phycocosm.jgi.doe.gov/TrebA12_1/TrebA12_1.info.html) does not include the raw data (only sequence of genes, transcripts,..)
-    - file size using the same parameters as for the *Xanthoria* genome would be approx. 53/32 * 40GB ≈ 66GB  
+    - file size using the same parameters as for the *Xanthoria* genome would be approx. 53/32 * 20GB ≈ 33GB  
      
-**total file size ≈ 100GB**
+**total file size ≈ 50GB**
 - storage costs would be negligible. (some 100CHF for hardware + some money for staff&maintenance/year, depends on organization)
 
 
