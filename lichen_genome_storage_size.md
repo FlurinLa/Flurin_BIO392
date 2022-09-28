@@ -50,7 +50,7 @@ i will consider a lichen genome as the genetic material of the main symbionts (f
   - the *Trebouxia* genome stored [here](https://phycocosm.jgi.doe.gov/TrebA12_1/TrebA12_1.info.html) does not include the raw data (only sequence of genes, transcripts,..)
     - file size using the same parameters as for the *Xanthoria* genome would be approx. 53/32 * 40GB ≈ 66GB  
      
-*total file size ≈ 100GB*
+**total file size ≈ 100GB**
 - storage costs would be negligible. (some 100CHF for hardware + some money for staff&maintenance/year, depends on organization)
 
 
