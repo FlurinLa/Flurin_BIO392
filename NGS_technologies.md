@@ -16,4 +16,15 @@ typical bands of human X chromosome
 
 
 ### SNP arrays
+- single nucleotide polymorphisms are single base mutations that are estabilhed in the genepoll of a population 
+- SNP arrays check for SNPs at specific loci
+- these arrays are widely used in diagnostics and in forensics, as they provide relatively quick and cheap, yet accurate information
+
+### aCGH
+- Array-based comparative genomic hybridization (aCGH) is a molecular cytogenetic technique that enables the genome-wide analysis of DNA copy numbers
+- Array CGH involves cohybridizing a test (patient) DNA sample and a control (reference) DNA sample, each differentially labeled with different colored fluorescent dyes (usually red and green, respectively), to a microarray slide containing thousands of DNA probes (oligos) that cover the entire human genome.
+![Uploading Screenshot 2022-09-28 at 13.14.50.png…]()
+*DOI: 10.1186/1471-2105-10-80*
+
+
 
