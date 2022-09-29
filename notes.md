@@ -172,9 +172,10 @@ ex.24
 
 
 ## thu
-- sequence alignment: BLAST (algorithm)
+- sequence alignment: **BLAST (algorithm)**
 - [NCIB BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) for nucl -> nucl or nucl-> prot
 - [UniProt BLAST](https://www.uniprot.org/blast) for aa  seq -> prot
+
 
 
 
