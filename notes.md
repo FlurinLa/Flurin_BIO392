@@ -171,6 +171,10 @@ ex.24
 	- more difficult if the to-be-mapped sequence does not exist there anymore
 
 
+## thu
+- sequence alignment: BLAST (algorithm)
+- [NCIB BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) for nucl -> nucl or nucl-> prot
+- [UniProt BLAST](https://www.uniprot.org/blast) for aa  seq -> prot
 
 
 
