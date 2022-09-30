@@ -190,7 +190,13 @@ ex.24
 	- bioinformatic alignment algorhythms: difficulty in finding the right spot, as repeats allow multiple alignments. different solutions present (aim: align with high fidelity and low computational load)
 
 
+**paper: TRAL: tandem repeat annotation library**
 
+- Why should you use multiple tandem repeat detection algorithms to look for repeats in biological sequence?
+	- they do not yield the same results -> increase accuracy by combining
+
+- What different functionalities does TRAL provide?
+	- it does the whole evaluating-STRs-with-different-algorhithms for you
 
 
 
