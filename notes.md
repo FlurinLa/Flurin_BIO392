@@ -198,7 +198,9 @@ ex.24
 - What different functionalities does TRAL provide?
 	- it does the whole evaluating-STRs-with-different-algorhithms for you
 
+### questions
 
+Is there a selection pressure on 3repeats?
 
 
 
